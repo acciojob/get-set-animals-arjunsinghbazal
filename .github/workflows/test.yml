@@ -1,5 +1,6 @@
 name: Acciojob score evaluation
 on: push
+
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
