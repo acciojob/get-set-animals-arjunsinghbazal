@@ -21,12 +21,12 @@ class Dog extends Animal {
 		console.log("woof");
 	}
 }
-let cat = new Cat("cat");
-cat.makeSound();
-cat.purr();
-let dog = new Dog("dog");
-dog.makeSound();
-dog.bark();
+let mew = new Cat("cat");
+mew.makeSound();
+mew.purr();
+let daff = new Dog("dog");
+daff.makeSound();
+daff.bark();
 
 
 // Do not change the code below this line
